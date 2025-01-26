@@ -24,7 +24,7 @@ const UpdateUser = () => {
           onChange={(e) => setNewName(e.target.value)}
           placeholder="Enter New Name"
         />
-        <button type="submit">update</button>
+        <button type="submit">update The Name</button>
       </form>
     </div>
   );
